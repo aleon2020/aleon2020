@@ -37,7 +37,7 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 
 ## Información de contacto
 
-Además de todo el material que se encuentra en mi perfil de Github, también dispongo de material en **formato físico** de otras asignaturas del grado, las cuales estoy abierto a ceder en forma de préstamo. Si estás interesad@ en alguna asignatura en concreto, ponte en contacto conmigo a través de Gmail.
+Además de todo el material que se encuentra en mi perfil de Github, también dispongo de material en **formato físico** de otras asignaturas del grado, las cuales estoy abierto a ceder en forma de préstamo. Si estás interesad@ en alguna asignatura en concreto, puedes ponerte en contacto conmigo a través de Gmail.
 
 <p align="center">
   <a href="mailto:albertoleon2002@gmail.com" target="blank">
