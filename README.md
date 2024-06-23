@@ -46,6 +46,6 @@ Además de todo el material que se encuentra en mi perfil de Github, también di
 
 <p align="center">
   <a href="mailto:albertoleon2002@gmail.com" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="30" width="40" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="gmail" height="30" width="40" />
   </a>
 </p>
