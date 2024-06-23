@@ -5,7 +5,7 @@
 En mi perfil podrás encontrar una inmensa cantidad de material relativo a las asignaturas que he ido cursando en este grado, y que puedes utilizar para tu propio uso para poder abordar dichas asignaturas de la mejor forma posible.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleon2020&show_icons=true&theme=midnight-purple&locale=en&layout=compact&hide_progress=true" alt="daquialeon2020nga2020" />
+¡Si te gusta lo que ves, no dudes en dejar una ⭐ en los repositorios! ¡Cada star cuenta! 🚀✨
 </p>
 
 **Asignaturas de Primero**
@@ -31,14 +31,9 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 * [M](https://github.com/aleon2020/M_2023-2024): Mecatrónica
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleon2020&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"alt="aleon2020" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleon2020&show_icons=true&theme=midnight-purple&locale=en&layout=compact&hide_progress=true" alt="daquialeon2020nga2020" />
+  <img width="335" height="" src="https://github-readme-stats.vercel.app/api?username=aleon2020&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"alt="aleon2020" />
 </p>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=aleon2020&label=Profile%20views&color=a212ca&style=plastic" alt="aleon2020"/> 
-</p>
-
-* * *
 
 ## Información de contacto
 
