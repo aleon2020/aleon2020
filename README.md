@@ -1,5 +1,5 @@
 <h1 align="center">
-# ¡Bienvenido!
+¡Bienvenido!
 </h1>
 
 ¡Hola! Soy Alberto León Luengo, estudiante de la Universidad Rey Juan Carlos en el campus de Fuenlabrada, matriculado en el grado de Ingeniería en Robótica Software.
