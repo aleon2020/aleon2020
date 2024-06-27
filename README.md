@@ -56,3 +56,7 @@ Además de todo el material que se encuentra en mi perfil de Github, también di
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aalbeerto_02" height="30" width="30" />
   </a>
 </p>
+
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=aleon2020&label=Profile%20views&color=0e75b6&style=flat" alt="aleon2020"/> 
+</p>
