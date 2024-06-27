@@ -7,7 +7,7 @@
 En mi perfil podrás encontrar una inmensa cantidad de material relativo a las asignaturas que he ido cursando en este grado, y que puedes utilizar para tu propio uso para poder abordar dichas asignaturas de la mejor forma posible.
 
 <div align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleon2020&&theme=midnight-purple" alt="aleon2020"/>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleon2020&&theme=midnight-blue" alt="aleon2020"/>
 </div>
 
 <hr/>
@@ -40,8 +40,8 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 * [M](https://github.com/aleon2020/M_2023-2024): Mecatrónica
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleon2020&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="aleon2020"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=aleon2020&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"alt="aleon2020" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleon2020&theme=midnight-blue&show_icons=true&locale=en&layout=compact" alt="aleon2020"/>
+  <img width=395 src="https://github-readme-stats.vercel.app/api?username=aleon2020&theme=midnight-blue&show_icons=true&hide_border=true&count_private=true"alt="aleon2020" />
 </p>
 
 ## Información de contacto
@@ -50,7 +50,7 @@ Además de todo el material que se encuentra en mi perfil de Github, también di
 
 <p align="center">
   <a href="mailto:albertoleon2002@gmail.com" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="gmail" height="30" width="30" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="30" width="30" />
   </a>
   <a href="https://www.instagram.com/aalbeerto_02" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aalbeerto_02" height="30" width="30" />
