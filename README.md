@@ -39,8 +39,10 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 * [RA](https://github.com/aleon2020/RA_2023-2024): Robótica Aérea
 * [M](https://github.com/aleon2020/M_2023-2024): Mecatrónica
 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleon2020&theme=radical&show_icons=true&locale=en&layout=compact" alt="aleon2020"/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleon2020&show_icons=true&theme=midnight-purple&locale=en&layout=compact&hide_progress=true" alt="daquialeon2020nga2020" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleon2020&show_icons=true&theme=midnight-purple&locale=en&layout=compact&hide_progress=true" alt="aleon2020" />
   <img width="335" height="" src="https://github-readme-stats.vercel.app/api?username=aleon2020&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"alt="aleon2020" />
 </p>
 
