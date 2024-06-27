@@ -26,6 +26,7 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 * [RDOPRYMI](https://github.com/aleon2020/RDOPRYMI_2023-2024): Redes de Ordenadores para Robots y Máquinas Inteligentes
 * [RI](https://github.com/aleon2020/RI_2023-2024): Robótica Industrial
 * [RM](https://github.com/aleon2020/RM_2022-2023): Robótica Móvil
+* [SDYC](https://github.com/aleon2020/SDYC_2023-2024): Sistemas Distribuidos y Concurrentes
 * [SEYDTR](https://github.com/aleon2020/SEYDTR_2022-2023): Sistemas Empotrados y de Tiempo Real
 
 **Asignaturas de Cuarto**
