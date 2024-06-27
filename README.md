@@ -2,7 +2,7 @@
 ¡Bienvenido!
 </h1>
 
-¡Hola! Soy Alberto León Luengo, estudiante de la Universidad Rey Juan Carlos en el campus de Fuenlabrada, matriculado en el grado de Ingeniería en Robótica Software.
+¡Hola! Soy Alberto León Luengo, estudiante de la Universidad Rey Juan Carlos en el campus de Fuenlabrada, matriculado en el grado de Ingeniería de Robótica Software.
 
 En mi perfil podrás encontrar una inmensa cantidad de material relativo a las asignaturas que he ido cursando en este grado, y que puedes utilizar para tu propio uso para poder abordar dichas asignaturas de la mejor forma posible.
 
@@ -11,10 +11,6 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 </div>
 
 <hr/>
-
-<p align="center">
-¡Si te gusta lo que ves, no dudes en dejar una ⭐ en los repositorios! ¡Cada star cuenta! 🚀✨
-</p>
 
 **Asignaturas de Primero**
 * [LDS](https://github.com/aleon2020/LDS_2022-2023): Laboratorio de Sistemas
@@ -40,9 +36,15 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 * [M](https://github.com/aleon2020/M_2023-2024): Mecatrónica
 
 <p align="center">
+¡Si te gusta lo que ves, no dudes en dejar una ⭐ en los repositorios! ¡Cada star cuenta! 🚀✨
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleon2020&theme=midnight-blue&show_icons=true&locale=en&layout=compact" alt="aleon2020"/>
   <img width=395 src="https://github-readme-stats.vercel.app/api?username=aleon2020&theme=midnight-blue&show_icons=true&hide_border=true&count_private=true"alt="aleon2020" />
 </p>
+
+<hr/>
 
 ## Información de contacto
 
