@@ -10,6 +10,8 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleon2020&&theme=radical" alt="aleon2020"/>
 </div>
 
+<hr/>
+
 <p align="center">
 ¡Si te gusta lo que ves, no dudes en dejar una ⭐ en los repositorios! ¡Cada star cuenta! 🚀✨
 </p>
