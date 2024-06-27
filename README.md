@@ -6,13 +6,13 @@
 
 En mi perfil podrás encontrar una inmensa cantidad de material relativo a las asignaturas que he ido cursando en este grado, y que puedes utilizar para tu propio uso para poder abordar dichas asignaturas de la mejor forma posible.
 
-<p align="center">
-¡Si te gusta lo que ves, no dudes en dejar una ⭐ en los repositorios! ¡Cada star cuenta! 🚀✨
-</p>
-
 <div align="center">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleon2020&&theme=radical" alt="aleon2020"/>
 </div>
+
+<p align="center">
+¡Si te gusta lo que ves, no dudes en dejar una ⭐ en los repositorios! ¡Cada star cuenta! 🚀✨
+</p>
 
 **Asignaturas de Primero**
 * [LDS](https://github.com/aleon2020/LDS_2022-2023): Laboratorio de Sistemas
