@@ -35,6 +35,11 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 * [RA](https://github.com/aleon2020/RA_2023-2024): Robótica Aérea
 * [M](https://github.com/aleon2020/M_2023-2024): Mecatrónica
 
+**Reconocimiento Académico de Créditos**
+* [AUYDPT](https://github.com/aleon2020/AUYDPT_2024-2025): Accesibilidad Universal y Diseño para Todos
+* [MDLE](https://github.com/aleon2020/MDLE_2024-2025). Mejora de la Empleabilidad
+* [SCYTDD](https://github.com/aleon2020/SCYTDD_2024-2025): Sostenibilidad: Criterios y Toma de Decisiones
+
 <p align="center">
 ¡Si te gusta lo que ves, no dudes en dejar una ⭐ en los repositorios! ¡Cada star cuenta! 🚀✨
 </p>
