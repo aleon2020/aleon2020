@@ -37,13 +37,13 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 
 **Reconocimiento Académico de Créditos (RACC)**
 
-**Actividades Formativas Obligatorias**
+**Actividades Formativas Obligatorias (1 ECTS por actividad)**
 
 * [AUYDPT](https://github.com/aleon2020/AUYDPT_2024-2025): Accesibilidad Universal y Diseño para Todos
 * [MDLE](https://github.com/aleon2020/MDLE_2024-2025). Mejora de la Empleabilidad
 * [SCYTDD](https://github.com/aleon2020/SCYTDD_2024-2025): Sostenibilidad: Criterios y Toma de Decisiones
 
-**Actividades Formativas Externas**
+**Actividades Formativas Externas (2 ECTS por actividad)**
 
 * [CE](https://github.com/aleon2020/CE_2024-2025): Comercio Electrónico
 * [FDMD](https://github.com/aleon2020/FDMD_2024-2025): Fundamentos de Marketing Digital
