@@ -32,13 +32,21 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 * [SEYDTR](https://github.com/aleon2020/SEYDTR_2022-2023): Sistemas Empotrados y de Tiempo Real
 
 **Asignaturas de Cuarto**
-* [RA](https://github.com/aleon2020/RA_2023-2024): Robótica Aérea
 * [M](https://github.com/aleon2020/M_2023-2024): Mecatrónica
+* [RA](https://github.com/aleon2020/RA_2023-2024): Robótica Aérea
 
-**Reconocimiento Académico de Créditos**
+**Reconocimiento Académico de Créditos (RACC)**
+
+* **Actividades Formativas Obligatorias**
+
 * [AUYDPT](https://github.com/aleon2020/AUYDPT_2024-2025): Accesibilidad Universal y Diseño para Todos
 * [MDLE](https://github.com/aleon2020/MDLE_2024-2025). Mejora de la Empleabilidad
 * [SCYTDD](https://github.com/aleon2020/SCYTDD_2024-2025): Sostenibilidad: Criterios y Toma de Decisiones
+
+* **Actividades Formativas Externas**
+
+* [CE](https://github.com/aleon2020/CE_2024-2025): Comercio Electrónico
+* [FDMD](https://github.com/aleon2020/FDMD_2024-2025): Fundamentos de Marketing Digital
 
 <p align="center">
 ¡Si te gusta lo que ves, no dudes en dejar una ⭐ en los repositorios! ¡Cada star cuenta! 🚀✨
