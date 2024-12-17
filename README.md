@@ -17,14 +17,14 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 
 **Asignaturas de Segundo**
 * [ASPR](https://github.com/aleon2020/ASPR_2022-2023): Arquitectura Software para Robots
-* [DYNER](https://github.com/aleon2020/DYNER_2022-2023): Deontología y Normativa en Robótica
 * [DS](https://github.com/aleon2020/DS_2022-2023): Diseño Software
+* [DYNER](https://github.com/aleon2020/DYNER_2022-2023): Deontología y Normativa en Robótica
 * [FDA](https://github.com/aleon2020/FDA_2022-2023): Fundamentos de Automática
 * [SYA](https://github.com/aleon2020/SYA_2022-2023): Sensores y Actuadores
 
 **Asignaturas de Tercero**
-* [IDC](https://github.com/aleon2020/IDC_2022-2023): Ingeniería del Control
 * [IA](https://github.com/aleon2020/IA_2023-2024): Inteligencia Artificial
+* [IDC](https://github.com/aleon2020/IDC_2022-2023): Ingeniería del Control
 * [RDOPRYMI](https://github.com/aleon2020/RDOPRYMI_2023-2024): Redes de Ordenadores para Robots y Máquinas Inteligentes
 * [RI](https://github.com/aleon2020/RI_2023-2024): Robótica Industrial
 * [RM](https://github.com/aleon2020/RM_2022-2023): Robótica Móvil
