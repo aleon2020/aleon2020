@@ -12,6 +12,10 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 
 <hr/>
 
+<p align="center">
+¡Si te gusta lo que ves, no dudes en dejar una ⭐ en los repositorios! ¡Cada star cuenta! 🚀✨
+</p>
+
 **Asignaturas de Primero**
 * [LDS](https://github.com/aleon2020/LDS_2022-2023): Laboratorio de Sistemas
 
@@ -47,10 +51,6 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 
 * [CE](https://github.com/aleon2020/CE_2024-2025): Comercio Electrónico
 * [FDMD](https://github.com/aleon2020/FDMD_2024-2025): Fundamentos de Marketing Digital
-
-<p align="center">
-¡Si te gusta lo que ves, no dudes en dejar una ⭐ en los repositorios! ¡Cada star cuenta! 🚀✨
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleon2020&theme=midnight-blue&show_icons=true&locale=en&layout=compact" alt="aleon2020"/>
