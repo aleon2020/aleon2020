@@ -36,6 +36,7 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 * [SEYDTR](https://github.com/aleon2020/SEYDTR_2022-2023): Sistemas Empotrados y de Tiempo Real
 
 **Asignaturas de Cuarto**
+* [AA](https://github.com/aleon2020/AA_2024-2025): Aprendizaje Automático
 * [M](https://github.com/aleon2020/M_2023-2024): Mecatrónica
 * [RA](https://github.com/aleon2020/RA_2023-2024): Robótica Aérea
 
