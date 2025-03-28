@@ -6,10 +6,6 @@
 
 En mi perfil podrás encontrar una inmensa cantidad de material relativo a las asignaturas que he ido cursando en este grado, y que puedes utilizar para tu propio uso para poder abordar dichas asignaturas de la mejor forma posible.
 
-<div align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleon2020&&theme=midnight-blue" alt="aleon2020"/>
-</div>
-
 <hr/>
 
 <p align="center">
@@ -20,6 +16,7 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 * [LDS](https://github.com/aleon2020/LDS_2022-2023): Laboratorio de Sistemas
 
 **Asignaturas de Segundo**
+* [ADMA](https://github.com/aleon2020/ADMA_2022-2023): Ampliación de Matemática Aplicada
 * [ASPR](https://github.com/aleon2020/ASPR_2022-2023): Arquitectura Software para Robots
 * [DYNER](https://github.com/aleon2020/DYNER_2022-2023): Deontología y Normativa en Robótica
 * [DS](https://github.com/aleon2020/DS_2022-2023): Diseño Software
