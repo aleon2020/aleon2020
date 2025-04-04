@@ -6,9 +6,7 @@
 
 En mi perfil podrás encontrar una inmensa cantidad de material relativo a las asignaturas que he ido cursando en este grado, y que puedes utilizar para tu propio uso para poder abordar dichas asignaturas de la mejor forma posible.
 
-<div align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleon2020&&theme=midnight-blue" alt="aleon2020"/>
-</div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleon2020&theme=midnight-blue&column=-1&margin-w=5&no-bg=true" alt="aleon2020" /></a> </p>
 
 <hr/>
 
@@ -73,10 +71,6 @@ Además de todo el material que se encuentra en mi perfil de Github, también di
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aalbeerto_02" height="60" width="60" />
   </a>
 </p>
-
-<hr/>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleon2020&theme=midnight-blue&column=-1&margin-w=5&no-bg=true" alt="aleon2020" /></a> </p>
 
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=aleon2020&label=Profile%20views&color=0e75b6&style=flat" alt="aleon2020"/> 
