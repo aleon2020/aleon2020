@@ -8,7 +8,7 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aleon2020&column=-1&margin-w=5&no-bg=true" alt="aleon2020" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aleon2020&theme=midnight-blue&column=-1&margin-w=5&no-bg=true" alt="aleon2020" />
   </a> 
 </p>
 
