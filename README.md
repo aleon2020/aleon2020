@@ -6,6 +6,10 @@
 
 En mi perfil podrás encontrar una inmensa cantidad de material relativo a las asignaturas que he ido cursando en este grado, y que puedes utilizar para tu propio uso para poder abordar dichas asignaturas de la mejor forma posible.
 
+<div align="center">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleon2020&&theme=midnight-blue" alt="aleon2020"/>
+</div>
+
 <hr/>
 
 <p align="center">
