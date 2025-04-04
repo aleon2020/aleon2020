@@ -8,6 +8,12 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=aleon2020&row=1&column=6)
 
+<p align="center"> 
+  <a href="https://github.com/aleon2020/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aleon2020&row=1&column=6" alt="aleon2020" />
+  </a> 
+</p>
+
 <hr/>
 
 <p align="center">
