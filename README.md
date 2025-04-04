@@ -6,8 +6,6 @@
 
 En mi perfil podrás encontrar una inmensa cantidad de material relativo a las asignaturas que he ido cursando en este grado, y que puedes utilizar para tu propio uso para poder abordar dichas asignaturas de la mejor forma posible.
 
-![trophy](https://github-profile-trophy.vercel.app/?username=aleon2020&row=1&column=6)
-
 <p align="center"> 
   <a href="https://github.com/aleon2020/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aleon2020&row=1&column=6" alt="aleon2020" />
