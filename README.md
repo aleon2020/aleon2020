@@ -70,6 +70,10 @@ Además de todo el material que se encuentra en mi perfil de Github, también di
   </a>
 </p>
 
+<hr/>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleon2020&theme=midnight-blue&column=-1&margin-w=5&no-bg=true" alt="aleon2020" /></a> </p>
+
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=aleon2020&label=Profile%20views&color=0e75b6&style=flat" alt="aleon2020"/> 
 </p>
