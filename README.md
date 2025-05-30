@@ -37,6 +37,7 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 * [RM](https://github.com/aleon2020/RM_2022-2023): Robótica Móvil
 * [SDYC](https://github.com/aleon2020/SDYC_2023-2024): Sistemas Distribuidos y Concurrentes
 * [SEYDTR](https://github.com/aleon2020/SEYDTR_2022-2023): Sistemas Empotrados y de Tiempo Real
+* [VA](https://github.com/aleon2020/VA_2024-2025): Visión Artificial
 
 **Asignaturas de Cuarto**
 * [AA](https://github.com/aleon2020/AA_2024-2025): Aprendizaje Automático
