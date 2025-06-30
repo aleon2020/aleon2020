@@ -31,6 +31,7 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 **Asignaturas de Tercero**
 * [IDC](https://github.com/aleon2020/IDC_2022-2023): Ingeniería del Control
 * [IA](https://github.com/aleon2020/IA_2023-2024): Inteligencia Artificial
+* [PYSC](https://github.com/aleon2020/PYSC_2024-2025): Planificación y Sistemas Cognitivos
 * [RDOPRYMI](https://github.com/aleon2020/RDOPRYMI_2023-2024): Redes de Ordenadores para Robots y Máquinas Inteligentes
 * [RI](https://github.com/aleon2020/RI_2023-2024): Robótica Industrial
 * [RM](https://github.com/aleon2020/RM_2022-2023): Robótica Móvil
