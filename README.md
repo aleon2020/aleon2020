@@ -45,6 +45,7 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 * [AA](https://github.com/aleon2020/AA_2024-2025): Aprendizaje Automático
 * [M](https://github.com/aleon2020/M_2023-2024): Mecatrónica
 * [RA](https://github.com/aleon2020/RA_2023-2024): Robótica Aérea
+* [RDS](https://github.com/aleon2020/RDS_2024-2025): Robótica de Servicio 
 
 **Reconocimiento Académico de Créditos (RACC)**
 
