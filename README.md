@@ -12,7 +12,7 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
   </a> 
 </p>
 
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
 ¡Si te gusta lo que ves, no dudes en dejar una ⭐ en los repositorios! ¡Cada star cuenta! 🚀✨
@@ -65,7 +65,7 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
   <img width=395 src="https://github-readme-stats.vercel.app/api?username=aleon2020&theme=midnight-blue&show_icons=true&hide_border=true&count_private=true"alt="aleon2020" />
 </p>
 
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Información de contacto
 
