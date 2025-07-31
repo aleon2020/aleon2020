@@ -75,6 +75,12 @@ Además de todo el material que se encuentra en mi perfil de Github, también di
   <a href="mailto:albertoleon2002@gmail.com" target="blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="60" width="60" />
   </a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/alberto-le%C3%B3n-luengo-5895b0373/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="https://www.linkedin.com/in/alberto-le%C3%B3n-luengo-5895b0373/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="60" width="60" />
+  </a>
+  <a href="https://instagram.com/aalbeerto_02" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="aalbeerto_02" height="60" width="60" />
+  </a>
 </p>
 
 <p align="left"> 
