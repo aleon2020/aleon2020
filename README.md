@@ -6,11 +6,11 @@ Hello! I'm Alberto León Luengo, a student at Rey Juan Carlos University, Fuenla
 
 In my profile, you can find a huge amount of material related to the subjects I've been taking in this degree, which you can use for your own benefit to help you tackle these subjects in the best possible way.
 
-<p align="center"> 
+<!-- <p align="center"> 
   <a href="https://github.com/aleon2020/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aleon2020&row=1&column=6" alt="aleon2020" />
   </a> 
-</p>
+</p> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -63,10 +63,10 @@ If you like what you see, feel free to follow me and leave a ⭐ on the reposito
 **Final Degree Project (TFG)**
 * [TFG_GIRS_2025](https://github.com/aleon2020/TFG_GIRS_2025): Trabajo de Fin de Grado (Modelos Cinemáticos)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleon2020&theme=midnight-blue&show_icons=true&locale=en&layout=compact" alt="aleon2020"/>
   <img width=395 src="https://github-readme-stats.vercel.app/api?username=aleon2020&theme=midnight-blue&show_icons=true&hide_border=true&count_private=true"alt="aleon2020" />
-</p>
+</p> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
