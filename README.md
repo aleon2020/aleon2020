@@ -1,10 +1,10 @@
 <h1 align="center">
-¡Bienvenido!
+Welcome to my Github!
 </h1>
 
-¡Hola! Soy Alberto León Luengo, estudiante de la Universidad Rey Juan Carlos en el Campus de Fuenlabrada, matriculado en el grado en Ingeniería de Robótica Software.
+Hello! I'm Alberto León Luengo, a student at Rey Juan Carlos University, Fuenlabrada Campus, enrolled in a degree in Software Robotics Engineering.
 
-En mi perfil podrás encontrar una inmensa cantidad de material relativo a las asignaturas que he ido cursando en este grado, y que puedes utilizar para tu propio uso para poder abordar dichas asignaturas de la mejor forma posible.
+In my profile, you can find a huge amount of material related to the subjects I've been taking in this degree, which you can use for your own benefit to help you tackle these subjects in the best possible way.
 
 <p align="center"> 
   <a href="https://github.com/aleon2020/github-profile-trophy">
@@ -15,13 +15,13 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-¡Si te gusta lo que ves, no dudes en dejar una ⭐ en los repositorios! ¡Cada star cuenta! 🚀✨
+If you like what you see, feel free to follow me and leave a ⭐ on the repositories! Every star counts! 🚀✨
 </p>
 
-**Asignaturas de Primero**
+**First Year Subjects**
 * [LDS](https://github.com/aleon2020/LDS_2022-2023): Laboratorio de Sistemas
 
-**Asignaturas de Segundo**
+**Second Year Subjects**
 * [ADMA](https://github.com/aleon2020/ADMA_2022-2023): Ampliación de Matemática Aplicada
 * [ASPR](https://github.com/aleon2020/ASPR_2022-2023): Arquitecturas Software para Robots
 * [DYNER](https://github.com/aleon2020/DYNER_2022-2023): Deontología y Normativa en Robótica
@@ -29,7 +29,7 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 * [FDA](https://github.com/aleon2020/FDA_2022-2023): Fundamentos de Automática
 * [SYA](https://github.com/aleon2020/SYA_2022-2023): Sensores y Actuadores
 
-**Asignaturas de Tercero**
+**Third Year Subjects**
 * [IDC](https://github.com/aleon2020/IDC_2022-2023): Ingeniería del Control
 * [IA](https://github.com/aleon2020/IA_2023-2024): Inteligencia Artificial
 * [MYSDR](https://github.com/aleon2020/MYSDR_2024-2025): Modelado y Simulación de Robots
@@ -41,26 +41,26 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 * [SEYDTR](https://github.com/aleon2020/SEYDTR_2022-2023): Sistemas Empotrados y de Tiempo Real
 * [VA](https://github.com/aleon2020/VA_2024-2025): Visión Artificial
 
-**Asignaturas de Cuarto**
+**Fourth Year Subjects**
 * [AA](https://github.com/aleon2020/AA_2024-2025): Aprendizaje Automático
 * [M](https://github.com/aleon2020/M_2023-2024): Mecatrónica
 * [RA](https://github.com/aleon2020/RA_2023-2024): Robótica Aérea
 * [RDS](https://github.com/aleon2020/RDS_2024-2025): Robótica de Servicio 
 
-**Reconocimiento Académico de Créditos (RACC)**
+**Academic Recognition of Credits (RACC)**
 
-**Actividades Formativas Obligatorias (1 ECTS por actividad)**
+**Mandatory Training Activities (1 ECTS per activity)**
 
 * [AUYDPT](https://github.com/aleon2020/AUYDPT_2024-2025): Accesibilidad Universal y Diseño para Todos
 * [MDLE](https://github.com/aleon2020/MDLE_2024-2025): Mejora de la Empleabilidad
 * [SCYTDD](https://github.com/aleon2020/SCYTDD_2024-2025): Sostenibilidad: Criterios y Toma de Decisiones
 
-**Actividades Formativas Externas (2 ECTS por actividad)**
+**External Training Activities (2 ECTS per activity)**
 
 * [CE](https://github.com/aleon2020/CE_2024-2025): Comercio Electrónico
 * [FDMD](https://github.com/aleon2020/FDMD_2024-2025): Fundamentos de Marketing Digital
 
-**Trabajo de Fin de Grado (TFG)**
+**Final Degree Project (TFG)**
 * [TFG_GIRS_2025](https://github.com/aleon2020/TFG_GIRS_2025): Trabajo de Fin de Grado (Modelos Cinemáticos)
 
 <p align="center">
@@ -70,9 +70,9 @@ En mi perfil podrás encontrar una inmensa cantidad de material relativo a las a
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Información de contacto
+## Contact Information
 
-Además de todo el material que se encuentra en mi perfil de Github, también dispongo de material en **formato físico** de otras asignaturas del grado, las cuales estoy abierto a ceder en forma de préstamo. Si estás interesad@ en alguna asignatura en concreto, puedes ponerte en contacto conmigo a través de Gmail.
+In addition to all the materials found on my GitHub profile, I also have physical materials for other degree courses, which I am open to lending. If you are interested in a specific subject, you can contact me through Gmail, LinkedIn, or Instagram.
 
 <p align="center">
   <a href="mailto:albertoleon2002@gmail.com" target="blank">
