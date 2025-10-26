@@ -60,9 +60,6 @@ If you like what you see, feel free to follow me and leave a ⭐ on the reposito
 * [CE](https://github.com/aleon2020/CE_2024-2025): Comercio Electrónico
 * [FDMD](https://github.com/aleon2020/FDMD_2024-2025): Fundamentos de Marketing Digital
 
-**Final Degree Project (TFG)**
-* [TFG_GIRS_2025](https://github.com/aleon2020/TFG_GIRS_2025): Trabajo de Fin de Grado (Modelos Cinemáticos)
-
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleon2020&theme=midnight-blue&show_icons=true&locale=en&layout=compact" alt="aleon2020"/>
   <img width=395 src="https://github-readme-stats.vercel.app/api?username=aleon2020&theme=midnight-blue&show_icons=true&hide_border=true&count_private=true"alt="aleon2020" />
