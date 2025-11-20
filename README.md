@@ -6,12 +6,6 @@ Hello! I'm Alberto León Luengo, a student at Rey Juan Carlos University, Fuenla
 
 In my profile, you can find a huge amount of material related to the subjects I've been taking in this degree, which you can use for your own benefit to help you tackle these subjects in the best possible way.
 
-<!-- <p align="center"> 
-  <a href="https://github.com/aleon2020/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aleon2020&row=1&column=6" alt="aleon2020" />
-  </a> 
-</p> -->
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aleon2020&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleon2020&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="Top Languages" />
@@ -65,18 +59,13 @@ If you like what you see, feel free to follow me and leave a ⭐ on the reposito
 * [CE](https://github.com/aleon2020/CE_2024-2025): Comercio Electrónico
 * [FDMD](https://github.com/aleon2020/FDMD_2024-2025): Fundamentos de Marketing Digital
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleon2020&theme=midnight-blue&show_icons=true&locale=en&layout=compact" alt="aleon2020"/>
-  <img width=395 src="https://github-readme-stats.vercel.app/api?username=aleon2020&theme=midnight-blue&show_icons=true&hide_border=true&count_private=true"alt="aleon2020" />
-</p> -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Contact Information
 
 In addition to all the materials found on my GitHub profile, I also have physical materials for other degree courses, which I am open to lending. If you are interested in a specific subject, you can contact me through Gmail, LinkedIn, or Instagram.
 
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:albertoleon2002@gmail.com" target="blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="gmail" height="60" width="60" />
   </a>
@@ -86,7 +75,19 @@ In addition to all the materials found on my GitHub profile, I also have physica
   <a href="https://instagram.com/aalbeerto_02" target="blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="aalbeerto_02" height="60" width="60" />
   </a>
-</p>
+</p> -->
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alberto-le%C3%B3n-luengo-5895b0373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/aalbeerto_02" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:albertoleon2002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=aleon2020&label=Profile%20views&color=0e75b6&style=flat" alt="aleon2020"/> 
