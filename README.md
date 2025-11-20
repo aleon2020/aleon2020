@@ -1,8 +1,8 @@
 <h1 align="center">
-Welcome to my Github!
+👋 Hello there! 👋
 </h1>
 
-Hello! I'm Alberto León Luengo, a student at Rey Juan Carlos University, Fuenlabrada Campus, enrolled in a degree in Software Robotics Engineering.
+Welcome to my GitHub! I'm Alberto León Luengo, a student at Rey Juan Carlos University, Fuenlabrada Campus, enrolled in a degree in Software Robotics Engineering.
 
 In my profile, you can find a huge amount of material related to the subjects I've been taking in this degree, which you can use for your own benefit to help you tackle these subjects in the best possible way.
 
@@ -64,18 +64,6 @@ If you like what you see, feel free to follow me and leave a ⭐ on the reposito
 ## Contact Information
 
 In addition to all the materials found on my GitHub profile, I also have physical materials for other degree courses, which I am open to lending. If you are interested in a specific subject, you can contact me through Gmail, LinkedIn, or Instagram.
-
-<!-- <p align="center">
-  <a href="mailto:albertoleon2002@gmail.com" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="gmail" height="60" width="60" />
-  </a>
-  <a href="https://www.linkedin.com/in/alberto-le%C3%B3n-luengo-5895b0373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="https://www.linkedin.com/in/alberto-le%C3%B3n-luengo-5895b0373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="60" width="60" />
-  </a>
-  <a href="https://instagram.com/aalbeerto_02" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="aalbeerto_02" height="60" width="60" />
-  </a>
-</p> -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alberto-le%C3%B3n-luengo-5895b0373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
