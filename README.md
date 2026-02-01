@@ -59,6 +59,10 @@ If you like what you see, feel free to follow me and leave a ⭐ on the reposito
 * [CE](https://github.com/aleon2020/CE_2024-2025): Comercio Electrónico
 * [FDMD](https://github.com/aleon2020/FDMD_2024-2025): Fundamentos de Marketing Digital
 
+**External Internships and Final Degree Project**
+* [PE](https://github.com/aleon2020/PE_2025-2026): Prácticas Externas
+* [TFG](https://github.com/aleon2020/cable_driven_parallel_robot_2d): Trabajo de Fin de Grado
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Contact Information
