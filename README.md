@@ -26,6 +26,7 @@ If you like what you see, feel free to follow me and leave a ⭐ on the reposito
 * [DYNER](https://github.com/aleon2020/DYNER_2022-2023): Deontología y Normativa en Robótica
 * [DS](https://github.com/aleon2020/DS_2022-2023): Diseño Software
 * [FDA](https://github.com/aleon2020/FDA_2022-2023): Fundamentos de Automática
+* [SHELL](https://github.com/aleon2020/SO_SHELL_2024-2025): Sistemas Operativos (Shell)
 * [SYA](https://github.com/aleon2020/SYA_2022-2023): Sensores y Actuadores
 
 **Third Year Subjects**
