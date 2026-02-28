@@ -6,11 +6,6 @@ Welcome to my GitHub! I'm Alberto León Luengo, a student at Rey Juan Carlos Uni
 
 In my profile, you can find a huge amount of material related to the subjects I've been taking in this degree, which you can use for your own benefit to help you tackle these subjects in the best possible way.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleon2020&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleon2020&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="Top Languages" />
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
