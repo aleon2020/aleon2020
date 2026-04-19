@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=%24.following&url=https://api.github.com/users/aleon2020&style=for-the-badge&color=28A745" />
 </div>
 
-## Education
+## 🎓 Education
 
 <table align="center">
   <tr>
@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-## Programming Tools and Other Technologies
+## 🛠️ Programming Tools and Other Technologies
 
 <table align="center">
 <tr>
@@ -74,14 +74,14 @@
 </tr>
 </table>
 
-## Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
   <br/>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aleon2020&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ff8000&fire=ff8000&currStreakLabel=ff8000" alt="Streak Stats" />
 </div>
 
-## Activity Chart
+## 📈 Activity & Contributions
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleon2020&theme=tokyonight"/>
@@ -93,7 +93,7 @@
 
 </div>
 
-## Contact Information
+## 📫 Contact Information
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alberto-le%C3%B3n-luengo-5895b0373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
