@@ -21,3 +21,5 @@ Welcome to my GitHub! I'm Alberto León Luengo, a student at Rey Juan Carlos Uni
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=aleon2020&label=Profile%20views&color=0e75b6&style=flat" alt="aleon2020"/> 
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
