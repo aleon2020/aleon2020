@@ -5,9 +5,19 @@
 <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=%24.following&url=https://api.github.com/users/aleon2020&style=for-the-badge&color=28A745" />
 </div>
 
+## 👨‍💻 About Me
+
+Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passionate about:
+
+- 🤖 Autonomous Robotics  
+- 🧠 Artificial Intelligence  
+- 👁️ Computer Vision  
+- ⚙️ Embedded Systems  
+- 🐧 Linux & Open Source
+
 ## 🎓 Education
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="120">
       <img src="https://img.icons8.com/color/96/graduation-cap.png" width="60"/><br>
@@ -42,33 +52,33 @@
 
 ## 🛠️ Programming Tools and Other Technologies
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td align="center" width="120">
+<td align="center" width="11%">
 <img src="https://skillicons.dev/icons?i=python" width="50"/><br><sub><b>Python</b></sub>
 </td>
-<td align="center" width="120">
+<td align="center" width="11%">
 <img src="https://skillicons.dev/icons?i=c" width="50"/><br><sub><b>C</b></sub>
 </td>
-<td align="center" width="120">
+<td align="center" width="11%">
 <img src="https://skillicons.dev/icons?i=git" width="50"/><br><sub><b>Git</b></sub>
 </td>
-<td align="center" width="120">
+<td align="center" width="11%">
 <img src="https://skillicons.dev/icons?i=github" width="50"/><br><sub><b>GitHub</b></sub>
 </td>
-<td align="center" width="120">
+<td align="center" width="11%">
 <img src="https://skillicons.dev/icons?i=gitlab" width="50"/><br><sub><b>GitLab</b></sub>
 </td>
-<td align="center" width="120">
+<td align="center" width="11%">
 <img src="https://skillicons.dev/icons?i=docker" width="50"/><br><sub><b>Docker</b></sub>
 </td>
-<td align="center" width="120">
+<td align="center" width="11%">
 <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><sub><b>VS Code</b></sub>
 </td>
-<td align="center" width="120">
+<td align="center" width="11%">
 <img src="https://skillicons.dev/icons?i=linux" width="50"/><br><sub><b>Linux</b></sub>
 </td>
-<td align="center" width="120">
+<td align="center" width="11%">
 <img src="https://skillicons.dev/icons?i=bash" width="50"/><br><sub><b>Bash</b></sub>
 </td>
 </tr>
@@ -83,11 +93,10 @@
 
 ## 📈 Activity & Contributions
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleon2020&theme=tokyonight"/>
-</p>
-
 <div align="center">
+<img width="100%"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleon2020&theme=tokyonight"/>
+  
+<br><br>
   
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aleon2020&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a3a5c&hide_border=true)](https://github.com/Bd-Mutant7)
 
