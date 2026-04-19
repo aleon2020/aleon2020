@@ -2,7 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Alberto%20León%20Luengo&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Robotics%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
-Welcome to my GitHub! I'm Alberto León Luengo, a student at Rey Juan Carlos University, Fuenlabrada Campus, enrolled in a degree in Software Robotics Engineering.
+## Statistics
+
+<div align="center">
+  <br/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aleon2020&theme=radical&hide_border=true&background=0d1117&ring=ff8000&fire=ff8000&currStreakLabel=ff8000" alt="Streak Stats" />
+</div>
 
 ## Contact Information
 
