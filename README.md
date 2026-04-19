@@ -99,7 +99,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aleon2020&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a3a5c&hide_border=true)](https://github.com/Bd-Mutant7)
 </div>
 
-## 📫 Contact Information
+## 📫 Contact Information (Ctrl + Click to open in new tab)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alberto-le%C3%B3n-luengo-5895b0373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
