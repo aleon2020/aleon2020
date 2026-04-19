@@ -2,6 +2,50 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Alberto%20León%20Luengo&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Robotics%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
+## Programming Tools and Other Technologies
+
+<table align="center">
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br><sub><b>Python</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=c" width="50"/><br><sub><b>C</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br><sub><b>Git</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br><sub><b>GitHub</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=gitlab" width="50"/><br><sub><b>GitLab</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker" width="50"/><br><sub><b>Docker</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><sub><b>VS Code</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=linux" width="50"/><br><sub><b>Linux</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=bash" width="50"/><br><sub><b>Bash</b></sub>
+</td>
+
+</tr>
+</table>
+
 ## Statistics
 
 <div align="center">
