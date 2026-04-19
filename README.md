@@ -9,6 +9,12 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aleon2020&theme=radical&hide_border=true&background=0d1117&ring=ff8000&fire=ff8000&currStreakLabel=ff8000" alt="Streak Stats" />
 </div>
 
+## Activity Chart
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleon2020&theme=tokyonight" />
+</p>
+
 ## Contact Information
 
 <div align="center">
