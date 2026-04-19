@@ -14,7 +14,7 @@
       <sub><b>University</b></sub>
     </td>
     <td>
-    Bachelor's Degree in Robotics Software Engineering<br>
+    <b>Bachelor's Degree in Robotics Software Engineering</b><br>
     URJC Fuenlabrada | 2020 - present
     </td>
   </tr>
@@ -24,7 +24,7 @@
       <sub><b>Baccalaureate</b></sub>
     </td>
     <td>
-    Graduated with a Science Baccalaureate<br>
+    <b>Graduated with a Science Baccalaureate</b><br>
     IES Miguel Hernández | 2018 - 2020
     </td>
   </tr>
@@ -34,7 +34,7 @@
       <sub><b>ESO</b></sub>
     </td>
     <td>
-    Graduated from Obligatory Secondary Education (ESO)<br>
+    <b>Graduated from Obligatory Secondary Education (ESO)</b><br>
     Villa de Móstoles School | 2014 - 2018
     </td>
   </tr>
