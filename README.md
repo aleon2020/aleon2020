@@ -84,7 +84,7 @@
 ## Activity Chart
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleon2020&theme=github-dark-blue"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleon2020&theme=tokyo-night" width="90%"/>
 </p>
 
 <div align="center">
