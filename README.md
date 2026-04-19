@@ -4,8 +4,6 @@
 
 Welcome to my GitHub! I'm Alberto León Luengo, a student at Rey Juan Carlos University, Fuenlabrada Campus, enrolled in a degree in Software Robotics Engineering.
 
-In my profile, you can find a huge amount of material related to the subjects I've been taking in this degree, which you can use for your own benefit to help you tackle these subjects in the best possible way.
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Contact Information
