@@ -68,11 +68,9 @@
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=linux" width="50"/><br><sub><b>Linux</b></sub>
 </td>
-
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=bash" width="50"/><br><sub><b>Bash</b></sub>
 </td>
-
 </tr>
 </table>
 
@@ -88,6 +86,7 @@
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleon2020&theme=tokyonight" />
 </p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aleon2020&theme=tokyo-night&hide_border=true)
 
 ## Contact Information
 
