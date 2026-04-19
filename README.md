@@ -1,40 +1,46 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Alberto%20León%20Luengo&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Robotics%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Alberto%20León%20Luengo&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Robotics%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=aleon2020&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/aleon2020?label=Followers&style=for-the-badge&color=1E90FF" />
+<img src="https://img.shields.io/badge/dynamic/json?label=Following&query=%24.following&url=https://api.github.com/users/aleon2020&style=for-the-badge&color=28A745" />
 </div>
+
+## Education
+
+Graduated from Obligatory Secondary Education (ESO)
+Villa de Móstoles School | 2014 - 2018
+
+Graduated with a Science Baccalaureate
+IES Miguel Hernández | 2018 - 2020
+
+Bachelor's Degree in Robotics Software Engineering
+URJC Fuenlabrada | 2020 - present
 
 ## Programming Tools and Other Technologies
 
 <table align="center">
 <tr>
-
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=python" width="50"/><br><sub><b>Python</b></sub>
 </td>
-
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=c" width="50"/><br><sub><b>C</b></sub>
 </td>
-
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=git" width="50"/><br><sub><b>Git</b></sub>
 </td>
-
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=github" width="50"/><br><sub><b>GitHub</b></sub>
 </td>
-
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=gitlab" width="50"/><br><sub><b>GitLab</b></sub>
 </td>
-
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=docker" width="50"/><br><sub><b>Docker</b></sub>
 </td>
-
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><sub><b>VS Code</b></sub>
 </td>
-
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=linux" width="50"/><br><sub><b>Linux</b></sub>
 </td>
