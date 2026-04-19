@@ -86,7 +86,12 @@
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleon2020&theme=tokyonight" />
 </p>
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aleon2020&theme=tokyo-night&hide_border=true)
+
+<div align="center">
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aleon2020&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a3a5c&hide_border=true)](https://github.com/Bd-Mutant7)
+
+</div>
 
 ## Contact Information
 
