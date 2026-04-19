@@ -7,14 +7,38 @@
 
 ## Education
 
-Graduated from Obligatory Secondary Education (ESO)
-Villa de Móstoles School | 2014 - 2018
-
-Graduated with a Science Baccalaureate
-IES Miguel Hernández | 2018 - 2020
-
-Bachelor's Degree in Robotics Software Engineering
-URJC Fuenlabrada | 2020 - present
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/96/graduation-cap.png" width="60"/><br>
+      <sub><b>University</b></sub>
+    </td>
+    <td>
+    Bachelor's Degree in Robotics Software Engineering
+    URJC Fuenlabrada | 2020 - present
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/96/books.png" width="60"/><br>
+      <sub><b>baccalaureate</b></sub>
+    </td>
+    <td>
+    Graduated with a Science Baccalaureate
+    IES Miguel Hernández | 2018 - 2020
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/96/school-building.png" width="60"/><br>
+      <sub><b>Obligatory Secondary Education</b></sub>
+    </td>
+    <td>
+    Graduated from Obligatory Secondary Education (ESO)
+    Villa de Móstoles School | 2014 - 2018
+    </td>
+  </tr>
+</table>
 
 ## Programming Tools and Other Technologies
 
