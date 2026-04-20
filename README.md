@@ -57,7 +57,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
       <sub><b>ESO</b></sub>
     </td>
     <td>
-    <b>Graduated from Obligatory Secondary Education (ESO)</b><br>
+    <b>Graduated from Obligatory Secondary Education</b><br>
     Villa de Móstoles School | 2014 - 2018<br>
     <b>Average Grade: 5.9/10</b>
     </td>
