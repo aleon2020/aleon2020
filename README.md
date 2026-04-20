@@ -21,7 +21,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
   <tr>
     <td align="center" width="120">
       <img src="https://img.icons8.com/color/96/briefcase.png" width="60"/><br>
-      <sub><b>JdeRobot</b></sub>
+      <sub><b>Work</b></sub>
     </td>
     <td>
     <b>Practical Robot Programming from a Web Browser</b><br>
