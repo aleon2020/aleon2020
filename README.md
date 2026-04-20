@@ -26,7 +26,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
     <td>
     <b>Practical Robot Programming from a Web Browser</b><br>
     JdeRobot | September 2025 - February 2026<br>
-    Grade: 9 / 10
+    <b>Grade: 9/10</b>
     </td>
   </tr>
 </table>
@@ -42,6 +42,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
     <td>
     <b>Bachelor's Degree in Robotics Software Engineering</b><br>
     URJC Fuenlabrada | 2020 - present
+    <b>Average Grade: 6.8/10</b>
     </td>
   </tr>
   <tr>
@@ -52,7 +53,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
     <td>
     <b>Graduated with a Science Baccalaureate</b><br>
     IES Miguel Hernández | 2018 - 2020<br>
-    Average Grade: 7.67 / 10
+    <b>Average Grade: 7.67/10</b>
     </td>
   </tr>
   <tr>
@@ -63,7 +64,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
     <td>
     <b>Graduated from Obligatory Secondary Education (ESO)</b><br>
     Villa de Móstoles School | 2014 - 2018<br>
-    Average Grade: 5.9 / 10
+    <b>Average Grade: 5.9/10</b>
     </td>
   </tr>
 </table>
@@ -114,7 +115,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
 <div align="center">
 <img width="100%"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleon2020&theme=tokyonight"/>
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aleon2020&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a3a5c&hide_border=true)](https://github.com/Bd-Mutant7)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aleon2020&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a3a5c&hide_border=true)](https://github.com/aleon2020)
 </div>
 
 ## 📫 Contact Information (Ctrl + Click to open in new tab)
