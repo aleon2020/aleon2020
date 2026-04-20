@@ -15,6 +15,22 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
 - ⚙️ Embedded Systems  
 - 🐧 Linux & Open Source
 
+## 📋 Work Experience
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/96/briefcase.png" width="60"/><br>
+      <sub><b>JdeRobot</b></sub>
+    </td>
+    <td>
+    <b>Practical Robot Programming from a Web Browser</b><br>
+    JdeRobot | September 2025 - February 2026<br>
+    Grade: 9 / 10
+    </td>
+  </tr>
+</table>
+
 ## 🎓 Education
 
 <table align="center" width="100%">
@@ -35,7 +51,8 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
     </td>
     <td>
     <b>Graduated with a Science Baccalaureate</b><br>
-    IES Miguel Hernández | 2018 - 2020
+    IES Miguel Hernández | 2018 - 2020<br>
+    Average Grade: 7.67 / 10
     </td>
   </tr>
   <tr>
@@ -45,7 +62,8 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
     </td>
     <td>
     <b>Graduated from Obligatory Secondary Education (ESO)</b><br>
-    Villa de Móstoles School | 2014 - 2018
+    Villa de Móstoles School | 2014 - 2018<br>
+    Average Grade: 5.9 / 10
     </td>
   </tr>
 </table>
