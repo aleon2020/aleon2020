@@ -15,7 +15,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
 - ⚙️ Embedded Systems  
 - 🐧 Linux & Open Source
 
-## 📋 Work Experience
+## 🎓 Work Experience and Education
 
 <table align="center" width="100%">
   <tr>
@@ -29,11 +29,6 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
     <b>Grade: 9/10</b>
     </td>
   </tr>
-</table>
-
-## 🎓 Education
-
-<table align="center" width="100%">
   <tr>
     <td align="center" width="120">
       <img src="https://img.icons8.com/color/96/graduation-cap.png" width="60"/><br>
