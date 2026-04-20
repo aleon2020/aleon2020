@@ -36,7 +36,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
     </td>
     <td>
     <b>Bachelor's Degree in Robotics Software Engineering</b><br>
-    URJC Fuenlabrada | 2020 - present
+    URJC Fuenlabrada | 2020 - present<br>
     <b>Average Grade: 6.8/10</b>
     </td>
   </tr>
