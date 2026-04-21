@@ -15,7 +15,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
 - ⚙️ Embedded Systems  
 - 🐧 Linux & Open Source
 
-## 🎓 Work Experience and Education
+## 🗂️ Work Experience and Education
 
 <table align="center" width="100%">
   <tr>
