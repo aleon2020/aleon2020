@@ -1,8 +1,16 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&customColorList=6,11,20&height=220&section=header&text=Alberto%20León%20Luengo&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Robotics%20Engineer&descAlignY=55&descSize=20" width="100%"/>
-<img src="https://komarev.com/ghpvc/?username=aleon2020&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/aleon2020?label=Followers&style=for-the-badge&color=1E90FF"/>
-<img src="https://img.shields.io/badge/dynamic/json?label=Following&query=%24.following&url=https://api.github.com/users/aleon2020&style=for-the-badge&color=28A745"/>
+  
+  <!--TITLE-->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&customColorList=6,11,20&height=220&section=header&text=Alberto%20León%20Luengo&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Robotics%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+
+  <!-- PROFILE VIEWS-->
+  <img src="https://komarev.com/ghpvc/?username=aleon2020&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+
+  <!-- FOLLOWERS -->
+  <img src="https://img.shields.io/github/followers/aleon2020?label=Followers&style=for-the-badge&color=1E90FF"/>
+
+  <!-- FOLLOWING -->
+  <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=%24.following&url=https://api.github.com/users/aleon2020&style=for-the-badge&color=28A745"/>
 </div>
 
 ## 👨‍💻 About Me
@@ -17,65 +25,57 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
 
 ## 🗂️ Work Experience and Education
 
+<!-- WORK -->
 <table align="center">
   <tr>
     <td align="center">
       <img src="https://img.icons8.com/color/96/briefcase.png" width="75"/><br>
       <sub><b>Work</b></sub>
     </td>
-    <td>
-    <b>Practical Robot Programming from a Web Browser</b><br>
-    JdeRobot | September 2025 - February 2026<br>
-    <b>Grade: 9/10</b>
-    </td>
   </tr>
+</table>
+**Practical Robot Programming from a Web Browser**  
+JdeRobot | September 2025 - February 2026  
+**Grade: 9/10**
+
+<!-- UNIVERSITY -->
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://img.icons8.com/color/96/graduation-cap.png" width="75"/><br>
       <sub><b>University</b></sub>
     </td>
-    <td>
-    <b>Bachelor's Degree in Robotics Software Engineering</b><br>
-    URJC Fuenlabrada | 2020 - present<br>
-    <b>Average Grade: 6.8/10</b>
-    </td>
   </tr>
+</table>
+**Bachelor's Degree in Robotics Software Engineering**
+URJC Fuenlabrada | 2020 - present
+**Average Grade: 6.8/10**
+
+<!-- BACCALAUREATE -->
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://img.icons8.com/color/96/books.png" width="75"/><br>
       <sub><b>Baccalaureate</b></sub>
     </td>
-    <td>
-    <b>Graduated with a Science Baccalaureate</b><br>
-    IES Miguel Hernández | 2018 - 2020<br>
-    <b>Average Grade: 7.67/10</b>
-    </td>
   </tr>
+</table>
+**Graduated with a Science Baccalaureate**
+IES Miguel Hernández | 2018 - 2020
+**Average Grade: 7.67/10**
+
+<!-- ESO -->
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://img.icons8.com/color/96/school-building.png" width="75"/><br>
       <sub><b>ESO</b></sub>
     </td>
-    <td>
-    <b>Graduated from Obligatory Secondary Education</b><br>
-    Villa de Móstoles School | 2014 - 2018<br>
-    <b>Average Grade: 5.9/10</b>
-    </td>
   </tr>
 </table>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/briefcase.png" width="75"/><br>
-      <sub><b>Work</b></sub>
-    </td>
-  </tr>
-</table>
-
-**Practical Robot Programming from a Web Browser**  
-JdeRobot | September 2025 - February 2026  
-**Grade: 9/10**
+**Graduated from Obligatory Secondary Education**
+Villa de Móstoles School | 2014 - 2018
+**Average Grade: 5.9/10**
 
 ## 🛠️ Programming Tools and Other Technologies
 
