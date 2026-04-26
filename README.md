@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=github-dark-blue&customColorList=6,11,20&height=220&section=header&text=Alberto%20León%20Luengo&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Robotics%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&section=header&text=Alberto%20León%20Luengo&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Robotics%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 <img src="https://komarev.com/ghpvc/?username=aleon2020&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/aleon2020?label=Followers&style=for-the-badge&color=1E90FF" />
 <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=%24.following&url=https://api.github.com/users/aleon2020&style=for-the-badge&color=28A745" />
@@ -107,10 +107,14 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
 
 ## 📈 Activity & Contributions
 
-<div align="center">
-<img width="100%"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleon2020&theme=tokyonight"/>
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aleon2020&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a3a5c&hide_border=true)](https://github.com/aleon2020)
+<p align="center"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleon2020&theme=react" width="100%" /> 
+</p>
+
+<div align="center"> 
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> 
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aleon2020&bg_color=20232A&color=61DAFB&line=61DAFB&point=61DAFB&hide_border=true" /> 
+  </a> 
 </div>
 
 ## 📫 Contact Information (Ctrl + Click to open in new tab)
@@ -127,4 +131,6 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=github-dark-blue&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <p align="center"> 
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&section=footer"/> 
+  </p>
