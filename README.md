@@ -46,8 +46,8 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
   </tr>
 </table>
 
-* **Practical Robot Programming from a Web Browser**  
-JdeRobot | September 2025 - February 2026  
+* **Practical Robot Programming from a Web Browser**<br>
+JdeRobot | September 2025 - February 2026<br>
 **Grade: 9/10**
 
 <!-- UNIVERSITY -->
@@ -66,6 +66,7 @@ URJC Fuenlabrada | 2020 - present<br>
 
 * **TOEIC Listening & Reading English Level B1 Certificate**<br>
 URJC Fuenlabrada | December 2021<br>
+**Grade: B1**
 
 <!-- BACCALAUREATE -->
 <table align="center">
@@ -96,7 +97,8 @@ Villa de Móstoles School | 2014 - 2018<br>
 **Average Grade: 5.9/10**<br>
 
 * **English Level B1 Certificate**<br>
-Villa de Móstoles School | Mayo 2018<br>
+Villa de Móstoles School | May 2018<br>
+**Grade: B1**
 
 ---
 
