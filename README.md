@@ -67,7 +67,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/96/briefcase.png" width="75"/>
+      <img src="https://img.icons8.com/color/96/briefcase.png" width="75"/><br>
       <sub><b>Work</b></sub>
     </td>
   </tr>
