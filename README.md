@@ -19,8 +19,8 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="180">
-      <img src="https://img.icons8.com/color/96/briefcase.png" width="90"/><br>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/96/briefcase.png" width="75"/><br>
       <sub><b>Work</b></sub>
     </td>
     <td>
@@ -30,8 +30,8 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
     </td>
   </tr>
   <tr>
-    <td align="center" width="180">
-      <img src="https://img.icons8.com/color/96/graduation-cap.png" width="90"/><br>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/96/graduation-cap.png" width="75"/><br>
       <sub><b>University</b></sub>
     </td>
     <td>
@@ -41,8 +41,8 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
     </td>
   </tr>
   <tr>
-    <td align="center" width="180">
-      <img src="https://img.icons8.com/color/96/books.png" width="90"/><br>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/96/books.png" width="75"/><br>
       <sub><b>Baccalaureate</b></sub>
     </td>
     <td>
@@ -52,8 +52,8 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
     </td>
   </tr>
   <tr>
-    <td align="center" width="180">
-      <img src="https://img.icons8.com/color/96/school-building.png" width="90"/><br>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/96/school-building.png" width="75"/><br>
       <sub><b>ESO</b></sub>
     </td>
     <td>
