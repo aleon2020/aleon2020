@@ -34,6 +34,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
     </td>
   </tr>
 </table>
+
 **Practical Robot Programming from a Web Browser**  
 JdeRobot | September 2025 - February 2026  
 **Grade: 9/10**
@@ -47,6 +48,7 @@ JdeRobot | September 2025 - February 2026
     </td>
   </tr>
 </table>
+
 **Bachelor's Degree in Robotics Software Engineering**
 URJC Fuenlabrada | 2020 - present
 **Average Grade: 6.8/10**
@@ -60,6 +62,7 @@ URJC Fuenlabrada | 2020 - present
     </td>
   </tr>
 </table>
+
 **Graduated with a Science Baccalaureate**
 IES Miguel Hernández | 2018 - 2020
 **Average Grade: 7.67/10**
@@ -73,6 +76,7 @@ IES Miguel Hernández | 2018 - 2020
     </td>
   </tr>
 </table>
+
 **Graduated from Obligatory Secondary Education**
 Villa de Móstoles School | 2014 - 2018
 **Average Grade: 5.9/10**
@@ -80,35 +84,53 @@ Villa de Móstoles School | 2014 - 2018
 ## 🛠️ Programming Tools and Other Technologies
 
 <table align="center" width="100%">
-<tr>
-<td align="center" width="11%">
-<img src="https://skillicons.dev/icons?i=python" width="75"/><br><sub><b>Python</b></sub>
-</td>
-<td align="center" width="11%">
-<img src="https://skillicons.dev/icons?i=c" width="75"/><br><sub><b>C</b></sub>
-</td>
-<td align="center" width="11%">
-<img src="https://skillicons.dev/icons?i=git" width="75"/><br><sub><b>Git</b></sub>
-</td>
-<td align="center" width="11%">
-<img src="https://skillicons.dev/icons?i=github" width="75"/><br><sub><b>GitHub</b></sub>
-</td>
-<td align="center" width="11%">
-<img src="https://skillicons.dev/icons?i=gitlab" width="75"/><br><sub><b>GitLab</b></sub>
-</td>
-<td align="center" width="11%">
-<img src="https://skillicons.dev/icons?i=docker" width="75"/><br><sub><b>Docker</b></sub>
-</td>
-<td align="center" width="11%">
-<img src="https://skillicons.dev/icons?i=vscode" width="75"/><br><sub><b>VS Code</b></sub>
-</td>
-<td align="center" width="11%">
-<img src="https://skillicons.dev/icons?i=linux" width="75"/><br><sub><b>Linux</b></sub>
-</td>
-<td align="center" width="11%">
-<img src="https://skillicons.dev/icons?i=bash" width="75"/><br><sub><b>Bash</b></sub>
-</td>
-</tr>
+
+  <!-- PYTHON -->
+  <tr>
+    <td align="center" width="11%">
+      <img src="https://skillicons.dev/icons?i=python" width="75"/><br><sub><b>Python</b></sub>
+    </td>
+
+  
+  <td align="center" width="11%">
+    <img src="https://skillicons.dev/icons?i=c" width="75"/><br><sub><b>C</b></sub>
+  </td>
+  
+  <td align="center" width="11%">
+    <img src="https://skillicons.dev/icons?i=git" width="75"/><br><sub><b>Git</b></sub>
+  </td>
+
+
+  <td align="center" width="11%">
+    <img src="https://skillicons.dev/icons?i=github" width="75"/><br><sub><b>GitHub</b></sub>
+  </td>
+
+
+  <td align="center" width="11%">
+    <img src="https://skillicons.dev/icons?i=gitlab" width="75"/><br><sub><b>GitLab</b></sub>
+  </td>
+
+
+  <td align="center" width="11%">
+    <img src="https://skillicons.dev/icons?i=docker" width="75"/><br><sub><b>Docker</b></sub>
+  </td>
+
+
+  <td align="center" width="11%">
+    <img src="https://skillicons.dev/icons?i=vscode" width="75"/><br><sub><b>VS Code</b></sub>
+  </td>
+
+
+  <td align="center" width="11%">
+    <img src="https://skillicons.dev/icons?i=linux" width="75"/><br><sub><b>Linux</b></sub>
+  </td>
+
+
+  <td align="center" width="11%">
+    <img src="https://skillicons.dev/icons?i=bash" width="75"/><br><sub><b>Bash</b></sub>
+  </td>
+
+  </tr>
 </table>
 
 ## 📊 GitHub Statistics
