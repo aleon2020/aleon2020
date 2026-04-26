@@ -69,31 +69,31 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
 <table align="center" width="100%">
 <tr>
 <td align="center" width="11%">
-<img src="https://skillicons.dev/icons?i=python" width="11%"/><br><sub><b>Python</b></sub>
+<img src="https://skillicons.dev/icons?i=python" width="75"/><br><sub><b>Python</b></sub>
 </td>
 <td align="center" width="11%">
-<img src="https://skillicons.dev/icons?i=c" width="11%"/><br><sub><b>C</b></sub>
+<img src="https://skillicons.dev/icons?i=c" width="75"/><br><sub><b>C</b></sub>
 </td>
 <td align="center" width="11%">
-<img src="https://skillicons.dev/icons?i=git" width="11%"/><br><sub><b>Git</b></sub>
+<img src="https://skillicons.dev/icons?i=git" width="75"/><br><sub><b>Git</b></sub>
 </td>
 <td align="center" width="11%">
-<img src="https://skillicons.dev/icons?i=github" width="11%"/><br><sub><b>GitHub</b></sub>
+<img src="https://skillicons.dev/icons?i=github" width="75"/><br><sub><b>GitHub</b></sub>
 </td>
 <td align="center" width="11%">
-<img src="https://skillicons.dev/icons?i=gitlab" width="11%"/><br><sub><b>GitLab</b></sub>
+<img src="https://skillicons.dev/icons?i=gitlab" width="75"/><br><sub><b>GitLab</b></sub>
 </td>
 <td align="center" width="11%">
-<img src="https://skillicons.dev/icons?i=docker" width="11%"/><br><sub><b>Docker</b></sub>
+<img src="https://skillicons.dev/icons?i=docker" width="75"/><br><sub><b>Docker</b></sub>
 </td>
 <td align="center" width="11%">
-<img src="https://skillicons.dev/icons?i=vscode" width="11%"/><br><sub><b>VS Code</b></sub>
+<img src="https://skillicons.dev/icons?i=vscode" width="75"/><br><sub><b>VS Code</b></sub>
 </td>
 <td align="center" width="11%">
-<img src="https://skillicons.dev/icons?i=linux" width="11%"/><br><sub><b>Linux</b></sub>
+<img src="https://skillicons.dev/icons?i=linux" width="75"/><br><sub><b>Linux</b></sub>
 </td>
 <td align="center" width="11%">
-<img src="https://skillicons.dev/icons?i=bash" width="11%"/><br><sub><b>Bash</b></sub>
+<img src="https://skillicons.dev/icons?i=bash" width="75"/><br><sub><b>Bash</b></sub>
 </td>
 </tr>
 </table>
