@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=%24.following&url=https://api.github.com/users/aleon2020&style=for-the-badge&color=28A745"/>
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
 Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passionate about:
@@ -30,6 +32,8 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
 - 🚀 Quick learner
 - ⏰ Punctuality
 
+---
+
 ## 🗂️ Work Experience and Education
 
 <!-- WORK -->
@@ -45,8 +49,6 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
 **Practical Robot Programming from a Web Browser**  
 JdeRobot | September 2025 - February 2026  
 **Grade: 9/10**
-
----
 
 <!-- UNIVERSITY -->
 <table align="center">
@@ -65,8 +67,6 @@ URJC Fuenlabrada | 2020 - present<br>
 **TOEIC Listening & Reading English Level B1 Certificate**<br>
 URJC Fuenlabrada | December 2021<br>
 
----
-
 <!-- BACCALAUREATE -->
 <table align="center">
   <tr>
@@ -80,8 +80,6 @@ URJC Fuenlabrada | December 2021<br>
 **Graduated with a Science Baccalaureate**<br>
 IES Miguel Hernández | 2018 - 2020<br>
 **Average Grade: 7.67/10**
-
----
 
 <!-- ESO -->
 <table align="center">
@@ -99,6 +97,8 @@ Villa de Móstoles School | 2014 - 2018<br>
 
 **English Level B1 Certificate**<br>
 Villa de Móstoles School | Mayo 2018<br>
+
+---
 
 ## 🛠️ Programming Tools and Other Technologies
 
@@ -162,6 +162,8 @@ Villa de Móstoles School | Mayo 2018<br>
   </tr>
 </table>
 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -174,13 +176,13 @@ Villa de Móstoles School | Mayo 2018<br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleon2020&theme=react" width="100%" /> 
 </p>
 
----
-
 <div align="center"> 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=aleon2020&bg_color=20232A&color=61DAFB&line=61DAFB&point=61DAFB&hide_border=true" /> 
   </a> 
 </div>
+
+---
 
 ## 📫 Contact Information (Ctrl + Click to open in new tab)
 
