@@ -64,6 +64,21 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
   </tr>
 </table>
 
+<table align="center">
+<tr>
+<td align="center" valign="top">
+<img src="https://img.icons8.com/color/96/briefcase.png" width="70"/><br>
+<sub><b>Work</b></sub>
+</td>
+
+<td valign="top">
+<b>Practical Robot Programming from a Web Browser</b><br>
+JdeRobot | September 2025 - February 2026<br>
+<b>Grade: 9/10</b>
+</td>
+</tr>
+</table>
+
 ## 🛠️ Programming Tools and Other Technologies
 
 <table align="center" width="100%">
