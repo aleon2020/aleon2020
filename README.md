@@ -23,6 +23,13 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
 - ⚙️ Embedded Systems  
 - 🐧 Linux & Open Source
 
+## 🧠 Habilities
+
+- 🤝 Organization and teamwork
+- 💬 Flexibility and communication
+- 🚀 Quick learner
+- ⏰ Punctuality
+
 ## 🗂️ Work Experience and Education
 
 <!-- WORK -->
@@ -53,7 +60,10 @@ JdeRobot | September 2025 - February 2026
 
 **Bachelor's Degree in Robotics Software Engineering**<br>
 URJC Fuenlabrada | 2020 - present<br>
-**Average Grade: 6.8/10**
+**Average Grade: 6.8/10**<br><br>
+
+**TOEIC Listening & Reading English Level B1 Certificate**<br>
+URJC Fuenlabrada | December 2021<br>
 
 ---
 
@@ -85,7 +95,10 @@ IES Miguel Hernández | 2018 - 2020<br>
 
 **Graduated from Obligatory Secondary Education**<br>
 Villa de Móstoles School | 2014 - 2018<br>
-**Average Grade: 5.9/10**
+**Average Grade: 5.9/10**<br><br>
+
+**English Level B1 Certificate**<br>
+Villa de Móstoles School | Mayo 2018<br>
 
 ## 🛠️ Programming Tools and Other Technologies
 
@@ -152,7 +165,6 @@ Villa de Móstoles School | 2014 - 2018<br>
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <br/>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aleon2020&theme=react&hide_border=true&background=0d1117&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" alt="Streak Stats" />
 </div>
 
@@ -161,6 +173,8 @@ Villa de Móstoles School | 2014 - 2018<br>
 <p align="center"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleon2020&theme=react" width="100%" /> 
 </p>
+
+---
 
 <div align="center"> 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> 
@@ -171,17 +185,24 @@ Villa de Móstoles School | 2014 - 2018<br>
 ## 📫 Contact Information (Ctrl + Click to open in new tab)
 
 <div align="center">
+
+  <!-- LINKEDIN -->
   <a href="https://www.linkedin.com/in/alberto-le%C3%B3n-luengo-5895b0373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
+  <!-- INSTAGRAM -->
   <a href="https://instagram.com/aalbeerto_02" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+
+  <!-- GMAIL -->
   <a href="mailto:albertoleon2002@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  
 </div>
 
-  <p align="center"> 
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&section=footer" width="100%"/> 
-  </p>
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&section=footer" width="100%"/> 
+</p>
