@@ -62,7 +62,7 @@ JdeRobot | September 2025 - February 2026
 
 * **Bachelor's Degree in Robotics Software Engineering**<br>
 URJC Fuenlabrada | 2020 - present<br>
-**Average Grade: 6.8/10**<br><br>
+**Average Grade: 6.8/10**<br>
 
 * **TOEIC Listening & Reading English Level B1 Certificate**<br>
 URJC Fuenlabrada | December 2021<br>
@@ -93,7 +93,7 @@ IES Miguel Hernández | 2018 - 2020<br>
 
 * **Graduated from Obligatory Secondary Education**<br>
 Villa de Móstoles School | 2014 - 2018<br>
-**Average Grade: 5.9/10**<br><br>
+**Average Grade: 5.9/10**<br>
 
 * **English Level B1 Certificate**<br>
 Villa de Móstoles School | Mayo 2018<br>
