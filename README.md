@@ -17,9 +17,9 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
 
 ## 🗂️ Work Experience and Education
 
-<table align="center" width="100%">
+<table align="center">
   <tr>
-    <td align="center" width="150">
+    <td align="center">
       <img src="https://img.icons8.com/color/96/briefcase.png" width="75"/><br>
       <sub><b>Work</b></sub>
     </td>
@@ -30,7 +30,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
     </td>
   </tr>
   <tr>
-    <td align="center" width="150">
+    <td align="center">
       <img src="https://img.icons8.com/color/96/graduation-cap.png" width="75"/><br>
       <sub><b>University</b></sub>
     </td>
@@ -41,7 +41,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
     </td>
   </tr>
   <tr>
-    <td align="center" width="150">
+    <td align="center">
       <img src="https://img.icons8.com/color/96/books.png" width="75"/><br>
       <sub><b>Baccalaureate</b></sub>
     </td>
@@ -52,7 +52,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
     </td>
   </tr>
   <tr>
-    <td align="center" width="150">
+    <td align="center">
       <img src="https://img.icons8.com/color/96/school-building.png" width="75"/><br>
       <sub><b>ESO</b></sub>
     </td>
