@@ -64,10 +64,14 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
   </tr>
 </table>
 
-<td align="center">
-  <img src="https://img.icons8.com/color/96/briefcase.png" width="75"/>
-  <sub><b>Work</b></sub>
-</td>
+<table>
+<tr>
+  <td align="center">
+    <img src="https://img.icons8.com/color/96/briefcase.png" width="75"/>
+    <sub><b>Work</b></sub>
+  </td>
+</tr>
+</table>
 
 **Practical Robot Programming from a Web Browser**  
 JdeRobot | September 2025 - February 2026  
