@@ -49,8 +49,8 @@ JdeRobot | September 2025 - February 2026
   </tr>
 </table>
 
-**Bachelor's Degree in Robotics Software Engineering**
-URJC Fuenlabrada | 2020 - present
+**Bachelor's Degree in Robotics Software Engineering**<br>
+URJC Fuenlabrada | 2020 - present<br>
 **Average Grade: 6.8/10**
 
 <!-- BACCALAUREATE -->
@@ -63,8 +63,8 @@ URJC Fuenlabrada | 2020 - present
   </tr>
 </table>
 
-**Graduated with a Science Baccalaureate**
-IES Miguel Hernández | 2018 - 2020
+**Graduated with a Science Baccalaureate**<br>
+IES Miguel Hernández | 2018 - 2020<br>
 **Average Grade: 7.67/10**
 
 <!-- ESO -->
@@ -77,8 +77,8 @@ IES Miguel Hernández | 2018 - 2020
   </tr>
 </table>
 
-**Graduated from Obligatory Secondary Education**
-Villa de Móstoles School | 2014 - 2018
+**Graduated from Obligatory Secondary Education**<br>
+Villa de Móstoles School | 2014 - 2018<br>
 **Average Grade: 5.9/10**
 
 ## 🛠️ Programming Tools and Other Technologies
@@ -91,41 +91,42 @@ Villa de Móstoles School | 2014 - 2018
       <img src="https://skillicons.dev/icons?i=python" width="75"/><br><sub><b>Python</b></sub>
     </td>
 
-  
+  <!-- C -->
   <td align="center" width="11%">
     <img src="https://skillicons.dev/icons?i=c" width="75"/><br><sub><b>C</b></sub>
   </td>
-  
+
+  <!-- GIT -->
   <td align="center" width="11%">
     <img src="https://skillicons.dev/icons?i=git" width="75"/><br><sub><b>Git</b></sub>
   </td>
 
-
+  <!-- GITHUB -->
   <td align="center" width="11%">
     <img src="https://skillicons.dev/icons?i=github" width="75"/><br><sub><b>GitHub</b></sub>
   </td>
 
-
+  <!-- GITLAB -->
   <td align="center" width="11%">
     <img src="https://skillicons.dev/icons?i=gitlab" width="75"/><br><sub><b>GitLab</b></sub>
   </td>
 
-
+  <!-- DOCKER -->
   <td align="center" width="11%">
     <img src="https://skillicons.dev/icons?i=docker" width="75"/><br><sub><b>Docker</b></sub>
   </td>
 
-
+  <!-- VS CODE -->
   <td align="center" width="11%">
     <img src="https://skillicons.dev/icons?i=vscode" width="75"/><br><sub><b>VS Code</b></sub>
   </td>
 
-
+  <!-- LINUX -->
   <td align="center" width="11%">
     <img src="https://skillicons.dev/icons?i=linux" width="75"/><br><sub><b>Linux</b></sub>
   </td>
 
-
+  <!-- BASH -->
   <td align="center" width="11%">
     <img src="https://skillicons.dev/icons?i=bash" width="75"/><br><sub><b>Bash</b></sub>
   </td>
