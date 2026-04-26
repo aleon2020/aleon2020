@@ -102,7 +102,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
 
 <div align="center">
   <br/>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aleon2020&theme=react&hide_border=true&background=0d1117&ring=ff8000&fire=ff8000&currStreakLabel=ff8000" alt="Streak Stats" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aleon2020&theme=react&hide_border=true&background=0d1117&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" alt="Streak Stats" />
 </div>
 
 ## 📈 Activity & Contributions
