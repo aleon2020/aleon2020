@@ -25,7 +25,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
 - ⚙️ Embedded Systems  
 - 🐧 Linux & Open Source
 
-## 🧠 Habilities
+## 💡 Habilities
 
 - 🤝 Organization and teamwork
 - 💬 Flexibility and communication
