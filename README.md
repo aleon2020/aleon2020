@@ -191,7 +191,7 @@ Villa de Móstoles School | May 2018<br>
 <div align="center">
 
   <!-- LINKEDIN -->
-  <a href="https://www.linkedin.com/in/alberto-le%C3%B3n-luengo-5895b0373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <a href="https://www.linkedin.com/in/albertoleonluengo/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
