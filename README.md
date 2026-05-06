@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=aleon2020&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
 
   <!-- FOLLOWERS -->
-  <img src="https://img.shields.io/github/followers/aleon2020?label=Followers&style=for-the-badge&color=1E90FF"/>
+  <!-- <img src="https://img.shields.io/github/followers/aleon2020?label=Followers&style=for-the-badge&color=1E90FF"/> -->
 
   <!-- FOLLOWING -->
   <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=%24.following&url=https://api.github.com/users/aleon2020&style=for-the-badge&color=28A745"/>
