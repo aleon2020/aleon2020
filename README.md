@@ -46,6 +46,9 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
   </tr>
 </table>
 
+* **Front-of-House and Kitchen Staff**<br>
+McDonald's | July 2026 - Now
+
 * **Practical Robot Programming from a Web Browser**<br>
 JdeRobot | September 2025 - February 2026<br>
 **Grade: 9/10**
@@ -61,8 +64,8 @@ JdeRobot | September 2025 - February 2026<br>
 </table>
 
 * **Bachelor's Degree in Robotics Software Engineering**<br>
-URJC Fuenlabrada | 2020 - present<br>
-**Average Grade: 6.8/10**<br>
+URJC Fuenlabrada | 2020 - 2026<br>
+**Average Grade: 6.81/10**<br>
 
 * **TOEIC Listening & Reading English Level B1 Certificate**<br>
 URJC Fuenlabrada | December 2021<br>
@@ -166,17 +169,17 @@ Villa de Móstoles School | May 2018<br>
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ## 📊 GitHub Statistics -->
 
-<div align="center">
+<!-- <div align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aleon2020&theme=react&hide_border=true&background=0d1117&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" alt="Streak Stats" />
-</div>
+</div> -->
 
 ## 📈 Activity & Contributions
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleon2020&theme=react" width="100%" /> 
-</p>
+</p> -->
 
 <div align="center"> 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> 
