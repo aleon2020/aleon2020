@@ -47,7 +47,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
 </table>
 
 * **Front-of-House and Kitchen Staff**<br>
-McDonald's | July 2026 - Now
+McDonald's | July 2026 - August 2026
 
 * **Practical Robot Programming from a Web Browser**<br>
 JdeRobot | September 2025 - February 2026<br>
