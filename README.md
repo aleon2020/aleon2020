@@ -46,6 +46,9 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
   </tr>
 </table>
 
+* **Kitchen Helper**<br>
+Kamado Asian Food | October 2026 - Now
+
 * **Front-of-House and Kitchen Staff**<br>
 McDonald's | July 2026 - August 2026
 
@@ -175,17 +178,17 @@ Villa de Móstoles School | May 2018<br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aleon2020&theme=react&hide_border=true&background=0d1117&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" alt="Streak Stats" />
 </div> -->
 
-## 📈 Activity & Contributions
+<!-- ## 📈 Activity & Contributions -->
 
 <!-- <p align="center"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleon2020&theme=react" width="100%" /> 
 </p> -->
 
-<div align="center"> 
+<!-- <div align="center"> 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=aleon2020&bg_color=20232A&color=61DAFB&line=61DAFB&point=61DAFB&hide_border=true" /> 
   </a> 
-</div>
+</div> -->
 
 ---
 
