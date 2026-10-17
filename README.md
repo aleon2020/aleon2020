@@ -47,7 +47,7 @@ Hi! I'm **Alberto León Luengo**, a Robotics Software Engineering student passio
 </table>
 
 * **Kitchen Helper**<br>
-Kamado Asian Food | October 2026 - Now
+Kamado Asian Food | October 2026
 
 * **Front-of-House and Kitchen Staff**<br>
 McDonald's | July 2026 - August 2026
